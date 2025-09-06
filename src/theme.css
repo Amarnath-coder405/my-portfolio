@@ -1,0 +1,11 @@
+:root {
+  --bg: #ffffff;
+  --text: #222;
+  --accent: #007bff;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #eee;
+  --accent: #1e90ff;
+}
