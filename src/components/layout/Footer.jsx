@@ -39,7 +39,7 @@ const Footer = () => {
       <SocialLinks />
 
       <div className="footer-bottom">
-        <p>© {currentYear} YourName. All rights reserved.</p>
+        <p>© {currentYear} Amarnath. All rights reserved.</p>
       </div>
     </footer>
   );
