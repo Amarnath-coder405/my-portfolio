@@ -36,8 +36,8 @@ const Projects = () => {
               </div>
 
               <div className="project-links">
-                <a href={project.github} target="_blank" rel="noreferrer">GitHub</a>
-                <a href={project.live} target="_blank" rel="noreferrer">Live</a>
+                <a href="#" target="_blank" rel="noreferrer">GitHub</a>
+                <a href="#" target="_blank" rel="noreferrer">Live</a>
               </div>
             </div>
           </motion.div>
