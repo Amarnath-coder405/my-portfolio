@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-## Project Overview
+# Project Overview
 
 This is a personal portfolio website designed to showcase my skills, projects, resume, and contact information. It serves as a central place where potential employers, collaborators, or clients can learn more about me, view my work, and get in touch.
 
