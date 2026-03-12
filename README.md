@@ -1,12 +1,12 @@
 # Personal Portfolio Website
 
-# Project Overview
+# Project Overview:
 
 This is a personal portfolio website designed to showcase my skills, projects, resume, and contact information. It serves as a central place where potential employers, collaborators, or clients can learn more about me, view my work, and get in touch.
 
 The goal of this project is to demonstrate proficiency in front-end web development using **HTML**, **CSS**, and **JavaScript**. It emphasizes clean design, responsive layout, and basic interactivity.
 
-## Features
+## Features:
 
 - Introduction/About Me section
 - Skills & Technologies list
